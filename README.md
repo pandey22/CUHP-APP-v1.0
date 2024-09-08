@@ -1,4 +1,3 @@
-Here’s the updated README file with the authors' details:
 
 ---
 
